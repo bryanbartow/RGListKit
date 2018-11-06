@@ -6,5 +6,5 @@ target 'RGListKit' do
   use_frameworks!
   pod 'ReactiveSwift', '~> 3.0'
   pod 'ReactiveCocoa', '~> 7.0'
-  pod 'ProtoKit', :git => 'https://github.com/riteshhgupta/ProtoKit.git'
+  pod 'ProtoKit', :git => 'https://github.com/bryanbartow/ProtoKit.git', :branch => 'swift4-2'
 end
